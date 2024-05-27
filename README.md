@@ -40,5 +40,4 @@ Complete the following steps:
 
 5. Update all the plots when a new sample is selected. 
 
-6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
-
+6. Deploy the app to a free static page hosting service, such as GitHub Pages.
