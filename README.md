@@ -1,7 +1,12 @@
 # belly-button-challenge
-Interactive dashboard illustrating belly button biodiversity
 
-Instructions
+
+
+# Objective
+
+Build an interactive dashboard illustrating belly button biodiversity which catalogs the microbes that colonize human navels. The Belly Button Biodiversity dataaset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+
+# Instructions
 
 Complete the following steps:
 
@@ -29,18 +34,11 @@ Complete the following steps:
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
-5. Display each key-value pair from the metadata JSON object somewhere on the page.
+     - Loop through each key-value pair from the metadata JSON object and create a text string.
 
-6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
+     - Append an html tag with that text to the #sample-metadata panel.
 
-7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+5. Update all the plots when a new sample is selected. 
 
-Advanced Challenge Assignment (Optional with no extra points earning)
+6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
-The following task is advanced and therefore optional.
-
-Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/Links to an external site. to plot the weekly washing frequency of the individual.
-
-You will need to modify the example gauge code to account for values ranging from 0 through 9.
-
-Update the chart whenever a new sample is selected.
