@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-
+![Bacteria](https://github.com/kgregart/belly-button-challenge/blob/main/Images/bacteria.jpg)
 
 # Objective
 
