@@ -38,4 +38,3 @@ Build an interactive dashboard illustrating belly button biodiversity which cata
 
 5. Update all the plots when a new sample is selected. 
 
-6. Deploy the app to a free static page hosting service, such as GitHub Pages.
